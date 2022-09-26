@@ -1,6 +1,8 @@
 # ENGR-1100
 Intro to Engineering group project using Greenfoot environment. Our project was a soccer game that you had to get a certain number of points to win without being blocked by the goalie or hitting the iceburgs that were around. You moved around your character by using the mouse.
 
+We used Trello as our Scrum board that I was in charge of.
+
 Working in a team of four or five students, you are required to propose, design, implement, and deliver a software application developed with Greenfoot in one of the following three categories.
 
 Education - Applications in this category must teach a skill to a specific audience (for example: teach math to third graders, teach reading skills to first graders, teach foreign language skills to adults), or present a concept in terms of an explanatory simulation (for example: simulate laws of motion, crowd behavior, swarm behavior, etc.).
