@@ -1,5 +1,5 @@
 # ENGR-1100
-Intro to Engineering group project using Greenfoot environment
+Intro to Engineering group project using Greenfoot environment. Our project was a soccer game that you had to get a certain number of points to win without being blocked by the goalie which was a polar 
 
 Working in a team of four or five students, you are required to propose, design, implement, and deliver a software application developed with Greenfoot in one of the following three categories.
 
